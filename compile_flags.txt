@@ -1,0 +1,1 @@
+-Wall -Wpedantic -Wconversion -std=c99
